@@ -1,0 +1,6 @@
+C:\Project\WebApiWithAdo\DataAccess\bin\Debug\DataAccess.dll
+C:\Project\WebApiWithAdo\DataAccess\bin\Debug\DataAccess.pdb
+C:\Project\WebApiWithAdo\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Project\WebApiWithAdo\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Project\WebApiWithAdo\DataAccess\obj\Debug\DataAccess.dll
+C:\Project\WebApiWithAdo\DataAccess\obj\Debug\DataAccess.pdb
